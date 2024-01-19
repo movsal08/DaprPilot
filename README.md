@@ -1,3 +1,5 @@
+[![.NET](https://github.com/movsal08/DaprPilot/actions/workflows/dotnet.yml/badge.svg)](https://github.com/movsal08/DaprPilot/actions/workflows/dotnet.yml)
+
 # Dapr Pilot Hotel Booking App
 
 ## Overview
